@@ -15,7 +15,7 @@
     text-indent:5px;
 }
 .form--button {
-    grid-column: -1 /1;
+    grid-column: -1 / 1;
     background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
     border-radius: 5px;
     font-family: 'Karla';
@@ -24,4 +24,8 @@
     font-weight: 700;
     font-size: 16px;
 
+}
+.meme--image {
+    grid-column: -1 /1;
+    max-width: 100%;
 }
